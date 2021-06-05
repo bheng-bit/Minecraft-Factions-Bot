@@ -1,0 +1,14 @@
+{
+    "discord": {
+        "botToken": "",
+        "prefix": "."
+    },
+    "minecraft": {
+        "username": "",
+        "password": "",
+        "serverIP": "",
+        "version": "1.8.8",
+        "joinCMD": "",
+        "ftopCMD": "/f top"
+    }
+}

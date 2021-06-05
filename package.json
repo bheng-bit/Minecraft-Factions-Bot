@@ -1,0 +1,34 @@
+{
+  "name": "factions-bot",
+  "version": "1.0.0",
+  "description": "minecraft factions discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Factions",
+    "minecraft",
+    "discord"
+  ],
+  "author": "Youniz",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "@notlegend/easymatch": "^1.2.0",
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "distube": "^2.8.14",
+    "figlet": "^1.5.0",
+    "fs": "0.0.1-security",
+    "lowdb": "^1.0.0",
+    "mathjs": "^9.4.1",
+    "mineflayer": "^3.7.0",
+    "mineflayer-tps": "^1.0.1",
+    "moment": "^2.29.1",
+    "os": "^0.1.1",
+    "pretty-ms": "^7.0.1",
+    "superagent": "^6.1.0",
+    "twemoji-parser": "^13.0.0"
+  }
+}
