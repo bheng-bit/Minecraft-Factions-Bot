@@ -9,6 +9,10 @@
 * [Installation-Guide](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/installation-guide.md)
 * [FAQ](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/faq.md)
 
+#### 🛠️ TO DO:
+* Add deposits/withdraw tracking of faction players
+* Add more moderation commands
+
 #### ❤️ Support:
 * You can contact me on discord: `Youniz#6267`
 * Join my support server: [Discord](https://discord.gg/aSQsaB4t43)
