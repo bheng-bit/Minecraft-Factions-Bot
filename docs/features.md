@@ -1,41 +1,48 @@
-# Minecraft Factions Bot
+# Factions Bot Features
 
-Minecraft factions discord bot!
-
-#### Features:
 * Ingame commands (tps, checked, bchecked, weewoo, ect.)
 * Ftop/flist/back tracking
 * General factions commands (ftop, flist, fshow, tps, ect.)
 * Application system (apply, accept, deny, ect.)
 * Moderation commands (kick, ban, mute, purge, etc.)
 * Fun commands (8ball, slapp, kiss, etc.)
+* Music bot included
 
-#### Installation:
-* First run install.bat to install all the node_modules.
-* Fill in the config.json file.
-* Start the bot by running the start.bat file.
 
-#### Config:
+### Ftop
 
-```json5
-{
-    "discord": {
-        "botToken": "", //The discord bot token
-        "prefix": "." //The bots prefix
-    },
-    "minecraft": {
-        "username": "", //The minecraft alts email adress
-        "password": "", //The minecraft alts password
-        "serverIP": "", //The minecraft server IP
-        "version": "1.8.8", //The minecraft server version
-        "joinCMD": "", //The hub command
-        "ftopCMD": "/f top" //The Ftop command
-    }
-}
-```
-#### Support:
-* You can contact me on discord: `Youniz#6267`
-* Join my support server: [Discord](https://discord.gg/aSQsaB4t43)
+![Ftop](./images/ftop.png)
 
-#### License:
-[MIT](https://choosealicense.com/licenses/mit/)
+### Flist
+![Flist](./images/flist.png)
+
+### Wall Checks
+![Walls](./images/wallchecks.png)
+
+### Buffer Checks
+![Buffer](./images/bufferchecks.png)
+
+### Player Stats
+![Stats](./images/stats.png)
+
+### Applications
+![Applications](./images/applications.png)\
+![Apply](./images/apply.png)
+
+### Ingame Verification
+![Verify](./images/applications.png)
+
+### WeeWoo
+![Weewoo](./images/weewoo.png)
+![Weewoo](./images/weewoo2.png)
+
+### DM Announcements
+![DM](./images/dmannounce.png)
+
+### Settings
+![Settings](./images/settings.png)
+![Settings](./images/modulesettings.png)
+![Settings](./images/timesettings.png)
+
+
+
