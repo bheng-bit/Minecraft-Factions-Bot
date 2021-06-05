@@ -1,5 +1,7 @@
 # 🚀 Minecraft Factions Discord Bot
 
+![Console](./docs/images/console.png)
+
 
 ####  📔 Table Of Contents:
 * [Features](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/features.md)
