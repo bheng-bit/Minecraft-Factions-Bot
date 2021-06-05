@@ -148,7 +148,7 @@ Permission: `MANAGE_ROLES`
 ### apply
 Command: apply\
 Description: Start a application process.\
-Usage: undefined\
+Usage: \
 Aliases: appstart\
 Permission: `None`
 
@@ -158,7 +158,7 @@ Permission: `None`
 ### appquestions
 Command: appquestions\
 Description: Displays all the application questions.\
-Usage: undefined\
+Usage: \
 Aliases: questions\
 Permission: `None`
 
@@ -188,7 +188,7 @@ Permission: `MANAGE_ROLES`
 ### resetapp
 Command: resetapp\
 Description: Reset all the questions for applications.\
-Usage: undefined\
+Usage: \
 Aliases: None\
 Permission: `MANAGE_ROLES`
 
@@ -198,7 +198,7 @@ Permission: `MANAGE_ROLES`
 ### setupapp
 Command: setupapp\
 Description: Setup questions for the applications.\
-Usage: undefined\
+Usage: \
 Aliases: None\
 Permission: `MANAGE_ROLES`
 
@@ -218,7 +218,7 @@ Permission: `None`
 ### baltop
 Command: baltop\
 Description: Displays balancetop.\
-Usage: undefined\
+Usage: \
 Aliases: balancetop\
 Permission: `None`
 
@@ -228,7 +228,7 @@ Permission: `None`
 ### bchecked
 Command: bchecked\
 Description: Mark your buffer as clear.\
-Usage: undefined\
+Usage: \
 Aliases: bclear\
 Permission: `None`
 
@@ -248,7 +248,7 @@ Permission: `None`
 ### checked
 Command: checked\
 Description: Mark your walls as clear.\
-Usage: undefined\
+Usage: \
 Aliases: clear\
 Permission: `None`
 
@@ -308,7 +308,7 @@ Permission: `None`
 ### players
 Command: players\
 Description: Shows all the online minecraft players.\
-Usage: undefined\
+Usage: \
 Aliases: None\
 Permission: `None`
 
@@ -358,7 +358,7 @@ Permission: `None`
 ### tps
 Command: tps\
 Description: Displays servers tps.\
-Usage: undefined\
+Usage: \
 Aliases: None\
 Permission: `None`
 
@@ -368,7 +368,7 @@ Permission: `None`
 ### tpyes
 Command: tpyes\
 Description: Sends tpaccept ingame.\
-Usage: undefined\
+Usage: \
 Aliases: tpaccept\
 Permission: `ADMINISTRATOR`
 
@@ -418,7 +418,7 @@ Permission: `None`
 ### coinflip
 Command: coinflip\
 Description: Flips a coin.\
-Usage: undefined\
+Usage: \
 Aliases: cf, flip, coin\
 Permission: `None`
 
@@ -448,7 +448,7 @@ Permission: `None`
 ### meme
 Command: meme\
 Description: Sends a random reddit meme.\
-Usage: undefined\
+Usage: \
 Aliases: None\
 Permission: `None`
 
@@ -458,7 +458,7 @@ Permission: `None`
 ### oldest
 Command: oldest\
 Description: Shows the oldest discord user in the guild.\
-Usage: undefined\
+Usage: \
 Aliases: None\
 Permission: `None`
 
@@ -508,7 +508,7 @@ Permission: `None`
 ### youngest
 Command: youngest\
 Description: Shows the youngest discord user in the guild.\
-Usage: undefined\
+Usage: \
 Aliases: None\
 Permission: `None`
 
@@ -538,7 +538,7 @@ Permission: `None`
 ### botinfo
 Command: botinfo\
 Description: Displays bot information.\
-Usage: undefined\
+Usage: \
 Aliases: None\
 Permission: `None`
 
@@ -558,7 +558,7 @@ Permission: `None`
 ### emojis
 Command: emojis\
 Description: Displays all the guild emojis.\
-Usage: undefined\
+Usage: \
 Aliases: None\
 Permission: `None`
 
@@ -578,7 +578,7 @@ Permission: `None`
 ### mcbot
 Command: mcbot\
 Description: Displays minecraft bot information.\
-Usage: undefined\
+Usage: \
 Aliases: None\
 Permission: `None`
 
@@ -588,7 +588,7 @@ Permission: `None`
 ### membercount
 Command: membercount\
 Description: Displays guilds membercount.\
-Usage: undefined\
+Usage: \
 Aliases: None\
 Permission: `None`
 
@@ -608,7 +608,7 @@ Permission: `KICK_MEMBERS`
 ### roles
 Command: roles\
 Description: Displays all the servers roles.\
-Usage: undefined\
+Usage: \
 Aliases: None\
 Permission: `None`
 
@@ -618,7 +618,7 @@ Permission: `None`
 ### serverinfo
 Command: serverinfo\
 Description: Displays information about discord guild.\
-Usage: undefined\
+Usage: \
 Aliases: si\
 Permission: `None`
 
@@ -628,7 +628,7 @@ Permission: `None`
 ### uptime
 Command: uptime\
 Description: Displays the discord bot uptime.\
-Usage: undefined\
+Usage: \
 Aliases: None\
 Permission: `None`
 
@@ -698,7 +698,7 @@ Permission: `None`
 ### nowplaying
 Command: nowplaying\
 Description: Displays the song that is currently playing.\
-Usage: undefined\
+Usage: \
 Aliases: np\
 Permission: `None`
 
@@ -708,7 +708,7 @@ Permission: `None`
 ### pause
 Command: pause\
 Description: Pause the current song in queue.\
-Usage: undefined\
+Usage: \
 Aliases: None\
 Permission: `None`
 
@@ -728,7 +728,7 @@ Permission: `None`
 ### queue
 Command: queue\
 Description: Displays the current music queue.\
-Usage: undefined\
+Usage: \
 Aliases: q\
 Permission: `None`
 
@@ -738,7 +738,7 @@ Permission: `None`
 ### resume
 Command: resume\
 Description: Pause the current song in queue.\
-Usage: undefined\
+Usage: \
 Aliases: unpause\
 Permission: `None`
 
@@ -758,7 +758,7 @@ Permission: `None`
 ### skip
 Command: skip\
 Description: Skip a music song in the voice channel.\
-Usage: undefined\
+Usage: \
 Aliases: None\
 Permission: `None`
 
@@ -768,7 +768,7 @@ Permission: `None`
 ### stop
 Command: stop\
 Description: Stop playing music in a voice channel.\
-Usage: undefined\
+Usage: \
 Aliases: disconnect, leave\
 Permission: `None`
 
@@ -788,7 +788,7 @@ Permission: `None`
 ### 4k
 Command: 4k\
 Description: Displays random 4k nsfw image.\
-Usage: undefined\
+Usage: \
 Aliases: None\
 Permission: `None`
 
@@ -798,7 +798,7 @@ Permission: `None`
 ### anal
 Command: anal\
 Description: Displays random anal image.\
-Usage: undefined\
+Usage: \
 Aliases: None\
 Permission: `None`
 
@@ -808,7 +808,7 @@ Permission: `None`
 ### ass
 Command: ass\
 Description: Displays random ass image.\
-Usage: undefined\
+Usage: \
 Aliases: None\
 Permission: `None`
 
@@ -818,7 +818,7 @@ Permission: `None`
 ### boobs
 Command: boobs\
 Description: Displays random boobs image.\
-Usage: undefined\
+Usage: \
 Aliases: tits\
 Permission: `None`
 
@@ -828,7 +828,7 @@ Permission: `None`
 ### gonewild
 Command: gonewild\
 Description: Displays random gonewild image.\
-Usage: undefined\
+Usage: \
 Aliases: tits\
 Permission: `None`
 
@@ -838,7 +838,7 @@ Permission: `None`
 ### pgif
 Command: pgif\
 Description: Displays random porn gif.\
-Usage: undefined\
+Usage: \
 Aliases: None\
 Permission: `None`
 
@@ -848,7 +848,7 @@ Permission: `None`
 ### pussy
 Command: pussy\
 Description: Displays random pussy image.\
-Usage: undefined\
+Usage: \
 Aliases: None\
 Permission: `None`
 
@@ -858,7 +858,7 @@ Permission: `None`
 ### reset
 Command: reset\
 Description: Reset everything for new map/season.\
-Usage: undefined\
+Usage: \
 Aliases: None\
 Permission: `MANAGE_GUILD`
 
@@ -868,7 +868,7 @@ Permission: `MANAGE_GUILD`
 ### restart
 Command: restart\
 Description: Restart the discord bot.\
-Usage: undefined\
+Usage: \
 Aliases: None\
 Permission: `ADMINISTRATOR`
 
@@ -898,7 +898,7 @@ Permission: `ADMINISTRATOR`
 ### settings
 Command: settings\
 Description: Displays bot settings.\
-Usage: undefined\
+Usage: \
 Aliases: None\
 Permission: `ADMINISTRATOR`
 
