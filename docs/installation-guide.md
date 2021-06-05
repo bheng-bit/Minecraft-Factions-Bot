@@ -1,11 +1,13 @@
 # Installation Guide
 
-#### Installation:
-* First run install.bat to install all the node_modules.
-* Fill in the config.json file.
-* Start the bot by running the start.bat file.
+### Steps:
+**1.** Please ensure you have [Node.js](https://nodejs.org/en/download/) installed.\
+**2.** Download the latest release [Here](https://github.com/Youniz/Minecraft-Factions-Bot/releases)\
+**3.** Fill in the config.json file.\
+**4.** Run install.bat to install all the node_modules.\
+**5.** Start the bot by running the start.bat file.\
 
-#### Config:
+### Config:
 
 ```json5
 {
@@ -23,6 +25,6 @@
     }
 }
 ```
-#### Support:
+### Support:
 * You can contact me on discord: `Youniz#6267`
 * Join my support server: [Discord](https://discord.gg/aSQsaB4t43)
