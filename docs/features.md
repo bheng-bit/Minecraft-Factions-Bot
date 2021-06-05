@@ -43,6 +43,3 @@
 ![Settings](./images/settings.png)
 ![Settings](./images/modulesettings.png)
 ![Settings](./images/timesettings.png)
-
-
-
