@@ -1,12 +1,11 @@
-# Minecraft Factions Bot
+# 🚀 Minecraft Factions Discord Bot
 
-Minecraft factions discord bot!
 
 ####  📔 Table Of Contents:
-
+* [Features](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/features.md)
 * [Commands  List](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 * [Installation-Guide](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/installation-guide.md)
-* [Features](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/features.md)
+* [FAQ](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/faq.md)
 
 #### ❤️ Support:
 * You can contact me on discord: `Youniz#6267`
