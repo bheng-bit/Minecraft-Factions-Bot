@@ -123,7 +123,7 @@
 
             
 
-### Owner [6] 
+### Owner [5] 
 | Name | Description | 
 | ---- | ----------- | 
 | [reset](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#reset) | Reset everything for new map/season. | 
@@ -140,7 +140,7 @@ Command: accept\
 Description: Accept an users appliction.\
 Usage: <@user/ID>\
 Aliases: None\
-Permission: `MANAGE_ROLES`\
+Permission: `MANAGE_ROLES`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -150,7 +150,7 @@ Command: apply\
 Description: Start a application process.\
 Usage: undefined\
 Aliases: appstart\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -160,7 +160,7 @@ Command: appquestions\
 Description: Displays all the application questions.\
 Usage: undefined\
 Aliases: questions\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -170,7 +170,7 @@ Command: deny\
 Description: Deny an users appliction.\
 Usage: <@user/ID>\
 Aliases: None\
-Permission: `MANAGE_ROLES`\
+Permission: `MANAGE_ROLES`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -180,7 +180,7 @@ Command: editapp\
 Description: Edit questions for applications\
 Usage: <ID> <question>\
 Aliases: None\
-Permission: `MANAGE_ROLES`\
+Permission: `MANAGE_ROLES`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -190,7 +190,7 @@ Command: resetapp\
 Description: Reset all the questions for applications.\
 Usage: undefined\
 Aliases: None\
-Permission: `MANAGE_ROLES`\
+Permission: `MANAGE_ROLES`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -200,7 +200,7 @@ Command: setupapp\
 Description: Setup questions for the applications.\
 Usage: undefined\
 Aliases: None\
-Permission: `MANAGE_ROLES`\
+Permission: `MANAGE_ROLES`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 ## Factions | 18 Commands
@@ -210,7 +210,7 @@ Command: bal\
 Description: Displays a players balance.\
 Usage: <ign>\
 Aliases: balance\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -220,7 +220,7 @@ Command: baltop\
 Description: Displays balancetop.\
 Usage: undefined\
 Aliases: balancetop\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -230,7 +230,7 @@ Command: bchecked\
 Description: Mark your buffer as clear.\
 Usage: undefined\
 Aliases: bclear\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -240,7 +240,7 @@ Command: btop\
 Description: Displays the top buffer checkers.\
 Usage: \
 Aliases: bufferstop\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -250,7 +250,7 @@ Command: checked\
 Description: Mark your walls as clear.\
 Usage: undefined\
 Aliases: clear\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -260,7 +260,7 @@ Command: ctop\
 Description: Displays the top wall checkers.\
 Usage: \
 Aliases: wallstop\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -270,7 +270,7 @@ Command: flist\
 Description: Displays factions list.\
 Usage: \
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -280,7 +280,7 @@ Command: ftop\
 Description: Displays factions top.\
 Usage: \
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -290,7 +290,7 @@ Command: fwho\
 Description: Displays factions information.\
 Usage: <faction>\
 Aliases: fshow\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -300,7 +300,7 @@ Command: iam\
 Description: Whitelists your minecraft name to your discord account.\
 Usage: <ign>\
 Aliases: link\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -310,7 +310,7 @@ Command: players\
 Description: Shows all the online minecraft players.\
 Usage: undefined\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -320,7 +320,7 @@ Command: runcmd\
 Description: Run a command ingame.\
 Usage: <command>\
 Aliases: None\
-Permission: `ADMINISTRATOR`\
+Permission: `ADMINISTRATOR`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -330,7 +330,7 @@ Command: sendmsg\
 Description: Send a message ingame.\
 Usage: <message>\
 Aliases: None\
-Permission: `ADMINISTRATOR`\
+Permission: `ADMINISTRATOR`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -340,7 +340,7 @@ Command: shield\
 Description: Enable/disabled wall check commands.\
 Usage: <on/off>\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -350,7 +350,7 @@ Command: stats\
 Description: Displays players statistics.\
 Usage: <@user>\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -360,7 +360,7 @@ Command: tps\
 Description: Displays servers tps.\
 Usage: undefined\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -370,7 +370,7 @@ Command: tpyes\
 Description: Sends tpaccept ingame.\
 Usage: undefined\
 Aliases: tpaccept\
-Permission: `ADMINISTRATOR`\
+Permission: `ADMINISTRATOR`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -380,7 +380,7 @@ Command: weewoo\
 Description: Tag everyone to alert them of a possbile raid.\
 Usage: <north/west/south/east>\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 ## Fun | 13 Commands
@@ -390,7 +390,7 @@ Command: 8ball\
 Description: Get a answer for your questions.\
 Usage: <question>\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -400,7 +400,7 @@ Command: ascii\
 Description: Transfers text to ascii font.\
 Usage: <text>\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -410,7 +410,7 @@ Command: calc\
 Description: Shows calculated answers of user's query.\
 Usage: <operation>\
 Aliases: calculate, calculator\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -420,7 +420,7 @@ Command: coinflip\
 Description: Flips a coin.\
 Usage: undefined\
 Aliases: cf, flip, coin\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -430,7 +430,7 @@ Command: hug\
 Description: Hug a person.\
 Usage: <@user/ID>\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -440,7 +440,7 @@ Command: kiss\
 Description: Kiss a person.\
 Usage: <@user/ID>\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -450,7 +450,7 @@ Command: meme\
 Description: Sends a random reddit meme.\
 Usage: undefined\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -460,7 +460,7 @@ Command: oldest\
 Description: Shows the oldest discord user in the guild.\
 Usage: undefined\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -470,7 +470,7 @@ Command: pat\
 Description: Pat a person.\
 Usage: <@user/ID>\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -480,7 +480,7 @@ Command: slap\
 Description: Slap a person.\
 Usage: <@user/ID>\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -490,7 +490,7 @@ Command: spank\
 Description: Spank a person.\
 Usage: <@user/ID>\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -500,7 +500,7 @@ Command: tickel\
 Description: Tickel a person.\
 Usage: <@user/ID>\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -510,7 +510,7 @@ Command: youngest\
 Description: Shows the youngest discord user in the guild.\
 Usage: undefined\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 ## General | 13 Commands
@@ -520,7 +520,7 @@ Command: avatar\
 Description: Displays avatar of specified user.\
 Usage: [@user/ID]\
 Aliases: av\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -530,7 +530,7 @@ Command: away\
 Description: Makes a fancy away message.\
 Usage: <date1> <date2> <reason>\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -540,7 +540,7 @@ Command: botinfo\
 Description: Displays bot information.\
 Usage: undefined\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -550,7 +550,7 @@ Command: embed\
 Description: Embed a discord message.\
 Usage: [title] [description]\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -560,7 +560,7 @@ Command: emojis\
 Description: Displays all the guild emojis.\
 Usage: undefined\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -570,7 +570,7 @@ Command: help\
 Description: Displays all the available commands.\
 Usage: [command name]\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -580,7 +580,7 @@ Command: mcbot\
 Description: Displays minecraft bot information.\
 Usage: undefined\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -590,7 +590,7 @@ Command: membercount\
 Description: Displays guilds membercount.\
 Usage: undefined\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -600,7 +600,7 @@ Command: poll\
 Description: Make a poll in discord.\
 Usage: <question> | <option 1> | <option 2> | [option 3] ...\
 Aliases: None\
-Permission: `KICK_MEMBERS`\
+Permission: `KICK_MEMBERS`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -610,7 +610,7 @@ Command: roles\
 Description: Displays all the servers roles.\
 Usage: undefined\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -620,7 +620,7 @@ Command: serverinfo\
 Description: Displays information about discord guild.\
 Usage: undefined\
 Aliases: si\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -630,7 +630,7 @@ Command: uptime\
 Description: Displays the discord bot uptime.\
 Usage: undefined\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -640,7 +640,7 @@ Command: userinfo\
 Description: Displays information about specified user.\
 Usage: [@user/ID]\
 Aliases: whois\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 ## Moderator | 4 Commands
@@ -650,7 +650,7 @@ Command: dmrole\
 Description: Dm everyone with a certain role.\
 Usage: <@role> <message>\
 Aliases: None\
-Permission: `ADMINISTRATOR`\
+Permission: `ADMINISTRATOR`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -660,7 +660,7 @@ Command: kick\
 Description: Kick a user from the discord.\
 Usage: <@user/ID> [reason]\
 Aliases: None\
-Permission: `KICK_MEMBERS`\
+Permission: `KICK_MEMBERS`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -670,7 +670,7 @@ Command: purge\
 Description: Clear amount of messages.\
 Usage: <#messages>\
 Aliases: None\
-Permission: `MANAGE_MESSAGES`\
+Permission: `MANAGE_MESSAGES`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -680,7 +680,7 @@ Command: roleall\
 Description: Adds the specified role to all the members in the guild.\
 Usage: <@role/ID>\
 Aliases: None\
-Permission: `MANAGE_ROLES`\
+Permission: `MANAGE_ROLES`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 ## Music | 10 Commands
@@ -690,7 +690,7 @@ Command: loop\
 Description: Loops the current songs in queue.\
 Usage: <off/song/queue>\
 Aliases: repeat\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -700,7 +700,7 @@ Command: nowplaying\
 Description: Displays the song that is currently playing.\
 Usage: undefined\
 Aliases: np\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -710,7 +710,7 @@ Command: pause\
 Description: Pause the current song in queue.\
 Usage: undefined\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -720,7 +720,7 @@ Command: play\
 Description: Play a music song in a voice channel.\
 Usage: <song>\
 Aliases: p\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -730,7 +730,7 @@ Command: queue\
 Description: Displays the current music queue.\
 Usage: undefined\
 Aliases: q\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -740,7 +740,7 @@ Command: resume\
 Description: Pause the current song in queue.\
 Usage: undefined\
 Aliases: unpause\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -750,7 +750,7 @@ Command: shuffle\
 Description: Shuffle the current queue.\
 Usage: \
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -760,7 +760,7 @@ Command: skip\
 Description: Skip a music song in the voice channel.\
 Usage: undefined\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -770,7 +770,7 @@ Command: stop\
 Description: Stop playing music in a voice channel.\
 Usage: undefined\
 Aliases: disconnect, leave\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -780,7 +780,7 @@ Command: volume\
 Description: Change the volume of the music.\
 Usage: <volume>\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 ## Nsfw | 7 Commands
@@ -790,7 +790,7 @@ Command: 4k\
 Description: Displays random 4k nsfw image.\
 Usage: undefined\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -800,7 +800,7 @@ Command: anal\
 Description: Displays random anal image.\
 Usage: undefined\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -810,7 +810,7 @@ Command: ass\
 Description: Displays random ass image.\
 Usage: undefined\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -820,7 +820,7 @@ Command: boobs\
 Description: Displays random boobs image.\
 Usage: undefined\
 Aliases: tits\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -830,7 +830,7 @@ Command: gonewild\
 Description: Displays random gonewild image.\
 Usage: undefined\
 Aliases: tits\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -840,7 +840,7 @@ Command: pgif\
 Description: Displays random porn gif.\
 Usage: undefined\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -850,17 +850,17 @@ Command: pussy\
 Description: Displays random pussy image.\
 Usage: undefined\
 Aliases: None\
-Permission: `None`\
+Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
-## Owner | 6 Commands
+## Owner | 5 Commands
 
 ### reset
 Command: reset\
 Description: Reset everything for new map/season.\
 Usage: undefined\
 Aliases: None\
-Permission: `MANAGE_GUILD`\
+Permission: `MANAGE_GUILD`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -870,7 +870,7 @@ Command: restart\
 Description: Restart the discord bot.\
 Usage: undefined\
 Aliases: None\
-Permission: `ADMINISTRATOR`\
+Permission: `ADMINISTRATOR`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -880,7 +880,7 @@ Command: roster\
 Description: Manage your factions roster.\
 Usage: <list/add/remove> [@user] [ign]\
 Aliases: None\
-Permission: `MANAGE_ROLES`\
+Permission: `MANAGE_ROLES`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -890,7 +890,7 @@ Command: set\
 Description: Change bot settings.\
 Usage: <setting> <value>\
 Aliases: None\
-Permission: `ADMINISTRATOR`\
+Permission: `ADMINISTRATOR`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
@@ -900,6 +900,6 @@ Command: settings\
 Description: Displays bot settings.\
 Usage: undefined\
 Aliases: None\
-Permission: `ADMINISTRATOR`\
+Permission: `ADMINISTRATOR`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
