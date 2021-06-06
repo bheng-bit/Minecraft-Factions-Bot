@@ -17,7 +17,7 @@
 * You can contact me on discord: `Youniz#6267`
 * Join my support server: [Discord](https://discord.gg/aSQsaB4t43)
 
-### 🌟 Credits:
+#### 🌟 Credits:
 * Brashive
 
 #### 📝 License
