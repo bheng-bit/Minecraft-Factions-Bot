@@ -17,5 +17,8 @@
 * You can contact me on discord: `Youniz#6267`
 * Join my support server: [Discord](https://discord.gg/aSQsaB4t43)
 
+#### 🌟 Credits:
+* Brashive
+
 #### 📝 License
 This project is [MIT](https://github.com/Koolwiza/Bot-12/blob/master/LICENSE) licensed.
