@@ -328,4 +328,25 @@ module.exports = {
             return true
         }
     },
+    resetChannels() {
+        db.update(
+          "channels",
+          (ch) =>
+            (ch = {
+                c_serverchat: "",
+                c_ftop: "",
+                c_flist: "",
+                c_wallChecks: "",
+                c_bufferChecks: "",
+                c_weewoo: "",
+                c_bank: "",
+                c_iam: "",
+                c_away: "",
+                c_application:"",
+                c_applicationLog: "",
+                c_logs: "",
+                c_joinLeave: "",
+            })
+        ).write();
+    },
 }

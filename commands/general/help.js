@@ -11,9 +11,6 @@ module.exports = {
 	args: false,
 	async run(client, message, args, bot, chatData, saving, database) {
 
-
-
-
     if (!args[0]) {
         const categories = fs.readdirSync("./commands/")
 

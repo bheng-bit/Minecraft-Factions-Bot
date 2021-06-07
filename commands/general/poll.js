@@ -9,7 +9,7 @@ module.exports = {
     permissions: ["KICK_MEMBERS"],
     category: "general",
 	args: true,
-	async run(client, message, args, bot, chatData, saving, database) {
+	async run(client, message, args, bot, database, chatData, saving) {
         const [question, ...choices] = args.join(' ').split(' | ');
 
         if(!question || !choices){

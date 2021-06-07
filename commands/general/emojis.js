@@ -6,7 +6,7 @@ module.exports = {
 	category: "general",
 	args: false,
 	async run(client, message, args, bot, chatData, saving, database) {
-		const nonAnimated = [];
+	const nonAnimated = [];
     const animated = [];
 
     message.guild.emojis.cache.forEach(e => {

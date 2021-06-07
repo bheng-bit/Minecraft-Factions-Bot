@@ -2,28 +2,29 @@
   "users": [],
   "questions": [],
   "applicants": [],
+  "prevFtop": [],
   "wallChecks": {
-    "lastWallChecked": 1622482576384,
+    "lastWallChecked": 1623094794414,
     "wallMinuteUnchecked": ""
   },
   "bufferChecks": {
-    "lastBufferChecked": 1622482576384,
+    "lastBufferChecked": 1623094794414,
     "bufferMinuteUnchecked": ""
   },
   "channels": {
-    "c_serverchat": "848978169372475402",
-    "c_ftop": "845760707593240666",
-    "c_flist": "845760715498323998",
-    "c_wallChecks": "845767896507482212",
-    "c_bufferChecks": "845771492041818212",
-    "c_weewoo": "845771501872742433",
+    "c_serverchat": "",
+    "c_ftop": "",
+    "c_flist": "",
+    "c_wallChecks": "",
+    "c_bufferChecks": "",
+    "c_weewoo": "",
     "c_bank": "",
-    "c_iam": "848978179012165664",
+    "c_iam": "",
     "c_away": "",
-    "c_application": "845760420254187563",
-    "c_applicationLog": "845936674239807519",
-    "c_logs": "836865198425767976",
-    "c_joinLeave": "845948110181367828"
+    "c_application": "",
+    "c_applicationLog": "",
+    "c_logs": "",
+    "c_joinLeave": ""
   },
   "roles": {
     "r_muted": "",
@@ -52,51 +53,9 @@
     "b_shield": true
   },
   "layouts": {
-    "l_ftop": "[Pos]. [Faction] - $[Value] ([Extra]) ([Change])",
+    "l_ftop": "[Pos]. [Faction] Total: $[Value]",
     "l_flist": "[Faction] [Online]/[Max] online, [Claims]"
   },
-  "totalUsers": 1,
-  "prevFtop": [
-    {
-      "factionName": "RNS",
-      "value": "19151000000"
-    },
-    {
-      "factionName": "Uniqua",
-      "value": "6144000000"
-    },
-    {
-      "factionName": "Akeno",
-      "value": "4135500000"
-    },
-    {
-      "factionName": "Solar",
-      "value": "3130000000"
-    },
-    {
-      "factionName": "Manled",
-      "value": "2762500000"
-    },
-    {
-      "factionName": "Fear",
-      "value": "2232500000"
-    },
-    {
-      "factionName": "Siona",
-      "value": "1879000000"
-    },
-    {
-      "factionName": "Juice",
-      "value": "1571500000"
-    },
-    {
-      "factionName": "THOTS",
-      "value": "1504500000"
-    },
-    {
-      "factionName": "Swim",
-      "value": "1338000000"
-    }
-  ],
+  "totalUsers": 0,
   "temporaryUsers": []
 }

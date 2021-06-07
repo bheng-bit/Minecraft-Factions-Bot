@@ -5,7 +5,7 @@ module.exports = {
 	name: "pat",
 	description: "Pat a person.",
 	usage: '<@user/ID>',
-  category: "fun",
+  	category: "fun",
 	args: true,
 	async run(client, message, args, bot, chatData, saving, database) {
 		let victim = message.mentions.members.first() || message.guild.members.cache.get(args[0]) || message.author;

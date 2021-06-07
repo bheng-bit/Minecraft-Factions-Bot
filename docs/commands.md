@@ -61,7 +61,7 @@
 
             
 
-### General [13] 
+### General [14] 
 | Name | Description | 
 | ---- | ----------- | 
 | [avatar](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#avatar) | Displays avatar of specified user. | 
@@ -75,19 +75,26 @@
 | [poll](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#poll) | Make a poll in discord. | 
 | [roles](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#roles) | Displays all the servers roles. | 
 | [serverinfo](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#serverinfo) | Displays information about discord guild. | 
+| [snipe](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#snipe) | Snipes last deleted message. | 
 | [uptime](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#uptime) | Displays the discord bot uptime. | 
 | [userinfo](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#userinfo) | Displays information about specified user. | 
 
 
             
 
-### Moderator [4] 
+### Moderator [10] 
 | Name | Description | 
 | ---- | ----------- | 
+| [addrole](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#addrole) | Adds the specified role to the provided user. | 
+| [ban](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#ban) | Ban a user from the discord. | 
 | [dmrole](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#dmrole) | Dm everyone with a certain role. | 
 | [kick](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#kick) | Kick a user from the discord. | 
+| [mute](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#mute) | Mute a user. | 
 | [purge](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#purge) | Clear amount of messages. | 
+| [removerole](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#removerole) | Removes the specified role from the provided user. | 
 | [roleall](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#roleall) | Adds the specified role to all the members in the guild. | 
+| [unban](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#unban) | Unban a user from the discord. | 
+| [unmute](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#unmute) | Unmute a user. | 
 
 
             
@@ -123,14 +130,16 @@
 
             
 
-### Owner [5] 
+### Owner [7] 
 | Name | Description | 
 | ---- | ----------- | 
 | [reset](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#reset) | Reset everything for new map/season. | 
+| [resetchannels](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#resetchannels) | Reset all the channels. | 
 | [restart](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#restart) | Restart the discord bot. | 
 | [roster](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#roster) | Manage your factions roster. | 
 | [set](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#set) | Change bot settings. | 
 | [settings](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#settings) | Displays bot settings. | 
+| [test](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md#test) | test command. | 
 
 # Detailed Command List
 ## Applications | 7 Commands
@@ -513,7 +522,7 @@ Aliases: None\
 Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
-## General | 13 Commands
+## General | 14 Commands
 
 ### avatar
 Command: avatar\
@@ -625,6 +634,16 @@ Permission: `None`
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
 
+### snipe
+Command: snipe\
+Description: Snipes last deleted message.\
+Usage: \
+Aliases: deleted\
+Permission: `None`
+
+[Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
+
+
 ### uptime
 Command: uptime\
 Description: Displays the discord bot uptime.\
@@ -643,7 +662,27 @@ Aliases: whois\
 Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
-## Moderator | 4 Commands
+## Moderator | 10 Commands
+
+### addrole
+Command: addrole\
+Description: Adds the specified role to the provided user.\
+Usage: <@user/ID> <@role/ID>\
+Aliases: None\
+Permission: `MANAGE_ROLES`
+
+[Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
+
+
+### ban
+Command: ban\
+Description: Ban a user from the discord.\
+Usage: <@user/ID> [reason]\
+Aliases: None\
+Permission: `BAN_MEMBERS`
+
+[Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
+
 
 ### dmrole
 Command: dmrole\
@@ -665,6 +704,16 @@ Permission: `KICK_MEMBERS`
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
 
+### mute
+Command: mute\
+Description: Mute a user.\
+Usage: <@user/ID> [reason]\
+Aliases: None\
+Permission: `MANAGE_ROLES`
+
+[Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
+
+
 ### purge
 Command: purge\
 Description: Clear amount of messages.\
@@ -675,10 +724,40 @@ Permission: `MANAGE_MESSAGES`
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 
 
+### removerole
+Command: removerole\
+Description: Removes the specified role from the provided user.\
+Usage: <@user/ID> <@role/ID>\
+Aliases: None\
+Permission: `MANAGE_ROLES`
+
+[Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
+
+
 ### roleall
 Command: roleall\
 Description: Adds the specified role to all the members in the guild.\
 Usage: <@role/ID>\
+Aliases: None\
+Permission: `MANAGE_ROLES`
+
+[Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
+
+
+### unban
+Command: unban\
+Description: Unban a user from the discord.\
+Usage: <ID>\
+Aliases: None\
+Permission: `BAN_MEMBERS`
+
+[Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
+
+
+### unmute
+Command: unmute\
+Description: Unmute a user.\
+Usage: <@user/ID>\
 Aliases: None\
 Permission: `MANAGE_ROLES`
 
@@ -853,11 +932,21 @@ Aliases: None\
 Permission: `None`
 
 [Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
-## Owner | 5 Commands
+## Owner | 7 Commands
 
 ### reset
 Command: reset\
 Description: Reset everything for new map/season.\
+Usage: \
+Aliases: None\
+Permission: `MANAGE_GUILD`
+
+[Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
+
+
+### resetchannels
+Command: resetchannels\
+Description: Reset all the channels.\
 Usage: \
 Aliases: None\
 Permission: `MANAGE_GUILD`
@@ -898,6 +987,16 @@ Permission: `ADMINISTRATOR`
 ### settings
 Command: settings\
 Description: Displays bot settings.\
+Usage: \
+Aliases: None\
+Permission: `ADMINISTRATOR`
+
+[Back to top](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
+
+
+### test
+Command: test\
+Description: test command.\
 Usage: \
 Aliases: None\
 Permission: `ADMINISTRATOR`

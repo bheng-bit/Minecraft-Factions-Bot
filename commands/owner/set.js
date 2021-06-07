@@ -1,4 +1,5 @@
 const { MessageEmbed } = require('discord.js');
+const { e } = require('mathjs');
 const config = require('../../config.json');
 const util = require('../../utils/functions');
 const functions = util.options;
@@ -125,6 +126,12 @@ module.exports = {
                         .setDescription(`:white_check_mark: \`${args[0]}\`** has been set to ${role}.**`);
                     return message.channel.send(embed);
                 }
+            } else if(functions.layouts.includes(args[0])){
+                database.setLayout(args[0], args.slice(1).join(" "));
+                const embed = new MessageEmbed()
+                    .setColor("GREEN")
+                    .setDescription(`:white_check_mark: \`${args[0]}\`** has been set to** \`${args.slice(1).join(" ")}\`**.**`);
+                return message.channel.send(embed);
             } else {
                 const embed = new MessageEmbed()
                     .setColor("RED")
