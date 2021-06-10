@@ -5,7 +5,7 @@
 * General factions commands (ftop, flist, fshow, tps, ect.)
 * Application system (apply, accept, deny, ect.)
 * Moderation commands (kick, ban, mute, purge, etc.)
-* Fun commands (8ball, slapp, kiss, etc.)
+* Fun commands (8ball, slap, kiss, etc.)
 * Music bot included
 
 
