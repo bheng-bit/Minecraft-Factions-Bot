@@ -14,7 +14,7 @@
 * Add more moderation commands
 
 #### ❤️ Support:
-* You can contact me on discord: `Youniz#6267`
+* You can contact me on discord: `Youniz#0001`
 * Join my support server: [Discord](https://discord.gg/aSQsaB4t43)
 
 #### 🌟 Credits:
