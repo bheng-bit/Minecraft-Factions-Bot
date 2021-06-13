@@ -1,14 +1,14 @@
 {
     "discord": {
-        "botToken": "",
+        "botToken": "ODUzMjY1ODE3MzE0Nzg3Mzcw.YMS3tw.R3Gu1UdeAcaMyakTRBakvKZcNsw",
         "prefix": "."
     },
     "minecraft": {
-        "username": "",
-        "password": "",
-        "serverIP": "",
+        "username": "claymorelamb98@yahoo.com",
+        "password": "Coopertk0571!",
+        "serverIP": "play.risingtide.cc",
         "version": "1.8.8",
-        "joinCMD": "",
+        "joinCMD": "/hub",
         "ftopCMD": "/f top"
     }
 }
